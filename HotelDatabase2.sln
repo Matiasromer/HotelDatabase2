@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "HotelDatabase2", "HotelDatabase2\HotelDatabase2.sqlproj", "{48AED4BD-9456-4F85-A264-12C7994B1DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AED4BD-9456-4F85-A264-12C7994B1DE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
